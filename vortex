@@ -22,7 +22,7 @@ local Window = Rayfield:CreateWindow({
        FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
        SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
        GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-       Key = {"7X3N5K2T8Q9L4C1M6J0V","vortex-1T5-L9","1F9V6L2J4M8K3B7X5C0T","8P2N7M1L4J6T3V5K0C9B","3T8K2J5L9M1X6N4C7V0B","4J9L1M6T2K3C8V5N7X0B","5X2L8J4N3K9M1T6V0C7B","9M1T2K6L4C8J3X5N7V0B","2L5T8J1N4M6K3X9V0C7B","6J1N9L2T4K8M3C5X7V0B","3K8M1J2T5L4C9N7V0X6B","1N9L2T4M8K6J3X5V0C7B","8T5L3K1N6M9C2J4X7V0B","2J6T9L4M1K5X8N3C7V0B","7K3L2J8M1T9N4X5C0V6B","5N1L8K2T6J4M9C3X7V0B","4C9T2J6M1K5L3X8N7V0B","8X1L5T2N9J4M6K3C7V0B","3J4N2L8K1T6M5C9X7V0B","6K2L8M1T9N4J3X5C0V7B","1T5L9K2N4M8J3X6C7V0B"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings
+       Key = {"Vortex-qIo9-9wtfQ"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings
     }
  })
 
